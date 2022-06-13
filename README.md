@@ -24,15 +24,9 @@
 Projeto foi desenvolvido em cima de uma aplicação React ultilizando o Vite, com o objetivo de realizar uma simulação de uma rede social com um feed, dentro foi implantada funções de realização de comentários e também excluir comentários.
 
 ## 🖼️ Imagens do Projeto
-<div align="center">
-  <img src="./Assets/tela1.png">
-</div>
-<div align="center">
-  <img src="./Assets/tela2.png">
-</div>
-<div align="center">
-  <img src="./Assets/tela3.png">
-</div>
+
+  ![screen-capture](https://user-images.githubusercontent.com/85140172/173465440-6a3f7fde-035c-406a-a8c6-baf5103b7abe.gif)
+
 
 ## 🧰 Tecnologias e Bibliotecas
 
