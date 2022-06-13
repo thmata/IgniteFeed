@@ -1,0 +1,88 @@
+.container{
+    margin-top: 2rem;
+    display: flex;
+}
+
+.container img{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 8px;
+}
+
+.container .comment {
+    width: 100%;
+    background-color: #29292E;
+    height: 7.5rem;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-left: 1rem;
+}
+
+.container strong {
+    color: var(--gray-100);
+}
+
+.container span {
+    color: var(--gray-400);
+}
+
+.container .comment .time {
+    color: #8D8D99;
+    padding-top: 0.25rem;
+    padding-bottom: 1rem;
+}
+
+.container .comment .time {
+    color: #8D8D99;
+    padding-top: 0.25rem;
+    padding-bottom: 1rem;
+}
+
+.container .comment .thecomment {
+    color: #C4C4CC;
+
+}
+
+.container .maincomment{
+    width: 100%;
+}
+
+footer{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+footer button{
+    background: transparent;
+    border: none;
+    color: var(--gray-400);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: color 0.5s;
+}
+
+footer button:hover{
+    color: var(--green-300);
+}
+
+footer button svg{
+    margin-right: 0.75rem;
+}
+
+.commentheader{
+    display: flex;
+    justify-content: space-between;
+}
+
+.commentheader button{
+    border: none;
+    background-color: transparent;
+    color: var(--gray-400);
+    transition: all 0.6s;
+}
+
+.commentheader button:hover {
+    color: rgba(255, 0, 0, 0.63);
+
+}
